@@ -13,4 +13,5 @@ Lang uses the letter "A" to refer to alpha that is applicable to all.
 The letter "C" refers to interpreted that is applicable to all.
 The letter "X" refers to generality that is applicable to all.
 The letter "a" refers to instance of alpha.
+The letter "c" refers to instance of interpreted.
 The letter "x" refers to instance of generality.
