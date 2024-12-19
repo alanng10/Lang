@@ -9,7 +9,8 @@ The sign characters are sign characters on System TypeBoard.
 
 Lang uses the word "he" to refer to one third party person.
 
-Lang uses the letter "A" to refer to alpha that is applicable to all.
+In Lang, the letters refer to different entities.
+The letter "A" refers to alpha that is applicable to all.
 The letter "C" refers to interpreted that is applicable to all.
 The letter "X" refers to generality that is applicable to all.
 The letter "a" refers to instance of alpha.
