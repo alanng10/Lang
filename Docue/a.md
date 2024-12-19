@@ -16,4 +16,5 @@ The letter "T" refers to output that is applicable to all.
 The letter "X" refers to generality that is applicable to all.
 The letter "a" refers to instance of alpha.
 The letter "c" refers to instance of interpreted.
+The letter "t" refers to instance of output.
 The letter "x" refers to instance of generality.
