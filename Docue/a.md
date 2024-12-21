@@ -4,7 +4,7 @@ Lang is most general language.
 
 Lang is composed of characters and language compound rules.
 
-Lang has characters that are 26 upper case English letters, 26 lower case English letters, 10 number digits and other sign characters.
+Lang has characters that are 25 upper case English letters, 25 lower case English letters, 10 number digits and other sign characters.
 The sign characters are sign characters on System TypeBoard.
 
 Lang uses the word "he" to refer to one third party person.
@@ -17,4 +17,4 @@ The letter "M" refers to process that is applicable to all.
 The letter "S" refers to do that is applicable to all.
 The letter "T" refers to output that is applicable to all.
 
-The lower case letters refer to instances of the upper case letters entities.
+The lower case letters refer to instances of the correponding upper case letters entities.
