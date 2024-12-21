@@ -12,11 +12,9 @@ Lang uses the word "he" to refer to one third party person.
 In Lang, the letters refer to different entities.
 The letter "A" refers to alpha that is applicable to all.
 The letter "C" refers to interpreted that is applicable to all.
+The letter "I" refers to center that is applicable to all.
 The letter "M" refers to process that is applicable to all.
 The letter "T" refers to output that is applicable to all.
 The letter "X" refers to generality that is applicable to all.
-The letter "a" refers to instance of alpha.
-The letter "c" refers to instance of interpreted.
-The letter "m" refers to instance of process.
-The letter "t" refers to instance of output.
-The letter "x" refers to instance of generality.
+
+The lower case letters refer to instances of the upper case letters entities.
