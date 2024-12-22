@@ -17,7 +17,7 @@ The letter "I" refers to interpreted that is applicable to all.
 The letter "L" refers to that is applicable to all.
 The letter "M" refers to process that is applicable to all.
 The letter "N" refers to any that is applicable to all.
-The letter "O" refers to entire that is applicable to all.
+The letter "O" refers to resulted that is applicable to all.
 The letter "S" refers to do that is applicable to all.
 The letter "T" refers to entity that is applicable to all.
 The letter "X" refers to compound that is applicable to all.
