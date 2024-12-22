@@ -14,7 +14,7 @@ The letter "A" refers to alpha that is applicable to all.
 The letter "C" refers to class that is applicable to all.
 The letter "E" refers to effect that is applicable to all.
 The letter "I" refers to interpreted that is applicable to all.
-The letter "L" refers to that is applicable to all.
+The letter "L" refers to applicable that is applicable to all.
 The letter "M" refers to process that is applicable to all.
 The letter "N" refers to any that is applicable to all.
 The letter "S" refers to do that is applicable to all.
