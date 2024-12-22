@@ -15,6 +15,7 @@ The letter "C" refers to class that is applicable to all.
 The letter "E" refers to effect that is applicable to all.
 The letter "I" refers to interpreted that is applicable to all.
 The letter "M" refers to process that is applicable to all.
+The letter "N" refers to any that is applicable to all.
 The letter "S" refers to do that is applicable to all.
 The letter "T" refers to entity that is applicable to all.
 The letter "X" refers to compound that is applicable to all.
