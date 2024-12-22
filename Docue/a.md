@@ -10,7 +10,7 @@ The sign characters are sign characters on System Type board.
 Lang uses the word "he" to refer to one third party person.
 
 In Lang, the letters refer to different entities.
-The letter "A" refers to alpha that is applicable to all.
+The letter "A" refers to any that is applicable to all.
 The letter "C" refers to class that is applicable to all.
 The letter "E" refers to effect that is applicable to all.
 The letter "I" refers to interpreted that is applicable to all.
