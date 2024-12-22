@@ -16,7 +16,7 @@ The letter "E" refers to effect that is applicable to all.
 The letter "I" refers to interpreted that is applicable to all.
 The letter "L" refers to applicable that is applicable to all.
 The letter "M" refers to process that is applicable to all.
-The letter "N" refers to any that is applicable to all.
+The letter "N" refers to list that is applicable to all.
 The letter "O" refers to resulted that is applicable to all.
 The letter "S" refers to do that is applicable to all.
 The letter "T" refers to entity that is applicable to all.
