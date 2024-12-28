@@ -18,6 +18,7 @@ The letter "L" refers to applicable that is applicable to all.
 The letter "M" refers to process that is applicable to all.
 The letter "N" refers to unit that is applicable to all.
 The letter "O" refers to resulted that is applicable to all.
+The letter "P" refers to state that is applicable to all.
 The letter "S" refers to do that is applicable to all.
 The letter "T" refers to entity that is applicable to all.
 The letter "X" refers to compound that is applicable to all.
