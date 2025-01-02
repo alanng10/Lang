@@ -13,7 +13,7 @@ In Lang, the letters refer to different entities.
 
 The letter "A" refers to any that is applicable to all.
 
-The letter "B" refers to that is applicable to all.
+The letter "B" refers to be that is applicable to all.
 
 The letter "C" refers to class that is applicable to all.
 
