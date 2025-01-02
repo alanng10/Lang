@@ -35,7 +35,7 @@ The letter "O" refers to resulted that is applicable to all.
 
 The letter "P" refers to state that is applicable to all.
 
-The letter "S" refers to do that is applicable to all.
+The letter "S" refers to structure that is applicable to all.
 
 The letter "T" refers to entity that is applicable to all.
 
