@@ -51,7 +51,7 @@ The letter "S" refers to structure that is applicable to all.
 
 The letter "T" refers to entity that is applicable to all.
 
-The letter "U" refers to value that is applicable to all.
+The letter "U" refers to part that is applicable to all.
 
 The letter "X" refers to compound that is applicable to all.
 
