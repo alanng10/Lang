@@ -53,7 +53,7 @@ The letter "T" refers to entity that is applicable to all.
 
 The letter "U" refers to part that is applicable to all.
 
-The letter "V" refers to name that is applicable to all.
+The letter "V" refers to symbol that is applicable to all.
 
 The letter "X" refers to compound that is applicable to all.
 
