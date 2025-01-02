@@ -53,7 +53,7 @@ The letter "T" refers to entity that is applicable to all.
 
 The letter "U" refers to part that is applicable to all.
 
-The letter "V" refers to symbol that is applicable to all.
+The letter "V" refers to present that is applicable to all.
 
 The letter "W" refers to whether that is applicable to all.
 
