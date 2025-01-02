@@ -25,6 +25,8 @@ The letter "F" refers to relate that is applicable to all.
 
 The letter "G" refers to shared that is applicable to all.
 
+The letter "H" refers to home that is applicable to all.
+
 The letter "I" refers to interpreted that is applicable to all.
 
 The letter "L" refers to applicable that is applicable to all.
