@@ -1,6 +1,6 @@
 # Lang
 
-Lang is most general language.
+Lang is most general and most level lang.
 
 Lang is composed of characters and language compound rules.
 
