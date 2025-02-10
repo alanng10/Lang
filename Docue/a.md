@@ -2,6 +2,8 @@
 
 Lang is most general and most level lang.
 
+Lang is ultimate lang.
+
 Lang is applicable to anything.
 
 Lang is applicable to any info.
