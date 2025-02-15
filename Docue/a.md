@@ -2,7 +2,7 @@
 
 Lang is most general and most level lang.
 
-Lang is ultimate lang.
+Lang is park lang.
 
 Lang is applicable to anything.
 
