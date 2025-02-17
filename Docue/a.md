@@ -50,6 +50,7 @@ The letter "L" refers to applicable that is applicable to all.
 It refers to list that is applicable to all.
 
 The letter "M" refers to process that is applicable to all.
+It refers to maide that is applicable to all.
 
 The letter "N" refers to unit that is applicable to all.
 
