@@ -64,6 +64,7 @@ The letter "R" refers to refer that is applicable to all.
 The letter "S" refers to structure that is applicable to all.
 
 The letter "T" refers to entity that is applicable to all.
+It refers to thin that is applicable to all.
 
 The letter "U" refers to part that is applicable to all.
 
