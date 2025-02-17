@@ -78,5 +78,6 @@ It refers to xapp that is applicable to all.
 The letter "Y" refers to object that is applicable to all.
 
 The letter "Z" refers to zero that is applicable to all.
+It refers to zoro that is applicable to all.
 
 The lower case letters refer to instances of the correponding upper case letters entities.
