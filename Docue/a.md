@@ -30,14 +30,17 @@ The letter "D" refers to direct that is applicable to all.
 The letter "E" refers to effect that is applicable to all.
 
 The letter "F" refers to relate that is applicable to all.
+It refers to friend that is applicable to all.
 
 The letter "G" refers to shared that is applicable to all.
+It refers to glob that is applicable to all.
 
 The letter "H" refers to home that is applicable to all.
 
 The letter "I" refers to interpreted that is applicable to all.
 
 The letter "J" refers to form that is applicable to all.
+It refers to juice that is applicable to all.
 
 The letter "K" refers to kind that is applicable to all.
 
