@@ -62,6 +62,7 @@ The letter "Q" refers to quest that is applicable to all.
 The letter "R" refers to refer that is applicable to all.
 
 The letter "S" refers to structure that is applicable to all.
+It refers to struct that is applicable to all.
 
 The letter "T" refers to entity that is applicable to all.
 It refers to thin that is applicable to all.
