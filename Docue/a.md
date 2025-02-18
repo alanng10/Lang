@@ -37,6 +37,7 @@ The letter "G" refers to shared that is applicable to all.
 It refers to glob that is applicable to all.
 
 The letter "H" refers to home that is applicable to all.
+It refers to horn that is applicable to all.
 
 The letter "I" refers to interpreted that is applicable to all.
 It refers to inter that is applicable to all.
