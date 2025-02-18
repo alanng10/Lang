@@ -78,6 +78,7 @@ The letter "V" refers to present that is applicable to all.
 It refers to view that is applicable to all.
 
 The letter "W" refers to whether that is applicable to all.
+It refers to when that is applicable to all.
 
 The letter "X" refers to cross that is applicable to all.
 It refers to xapp that is applicable to all.
