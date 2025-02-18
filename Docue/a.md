@@ -84,7 +84,7 @@ The letter "W" refers to whether that is applicable to all.
 It refers to when that is applicable to all.
 
 The letter "X" refers to cross that is applicable to all.
-It refers to xapp that is applicable to all.
+It refers to xoppo that is applicable to all.
 
 The letter "Y" refers to object that is applicable to all.
 It refers to yocto that is applicable to all.
