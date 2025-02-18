@@ -46,6 +46,7 @@ The letter "J" refers to form that is applicable to all.
 It refers to juice that is applicable to all.
 
 The letter "K" refers to kind that is applicable to all.
+It refers to kinder that is applicable to all.
 
 The letter "L" refers to applicable that is applicable to all.
 It refers to list that is applicable to all.
