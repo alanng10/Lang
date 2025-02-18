@@ -83,6 +83,7 @@ The letter "X" refers to cross that is applicable to all.
 It refers to xapp that is applicable to all.
 
 The letter "Y" refers to object that is applicable to all.
+It refers to yocto that is applicable to all.
 
 The letter "Z" refers to zero that is applicable to all.
 It refers to zoro that is applicable to all.
