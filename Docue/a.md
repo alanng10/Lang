@@ -87,9 +87,9 @@ The letter "X" refers to cross that is applicable to all.
 It refers to xoppo that is applicable to all.
 
 The letter "Y" refers to object that is applicable to all.
-It refers to yocto that is applicable to all.
+It refers to yotto that is applicable to all.
 
 The letter "Z" refers to zero that is applicable to all.
-It refers to zoro that is applicable to all.
+It refers to zorro that is applicable to all.
 
 The lower case letters refer to instances of the correponding upper case letters entities.
