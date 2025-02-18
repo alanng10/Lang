@@ -62,6 +62,7 @@ The letter "P" refers to state that is applicable to all.
 It refers to park that is applicable to all.
 
 The letter "Q" refers to quest that is applicable to all.
+It refers to queue that is applicable to all.
 
 The letter "R" refers to refer that is applicable to all.
 
