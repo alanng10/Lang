@@ -27,6 +27,7 @@ It refers to been that is applicable to all.
 The letter "C" refers to class that is applicable to all.
 
 The letter "D" refers to direct that is applicable to all.
+It refers to diret that is applicable to all.
 
 The letter "E" refers to effect that is applicable to all.
 It refers to engin that is applicable to all.
