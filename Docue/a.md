@@ -71,7 +71,7 @@ The letter "R" refers to refer that is applicable to all.
 It refers to refed that is applicable to all.
 
 The letter "S" refers to structure that is applicable to all.
-It refers to struct that is applicable to all.
+It refers to strut that is applicable to all.
 
 The letter "T" refers to entity that is applicable to all.
 It refers to thin that is applicable to all.
