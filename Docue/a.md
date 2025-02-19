@@ -20,6 +20,7 @@ Lang uses the word "he" to refer to one third party person.
 In Lang, the letters refer to different entities.
 
 The letter "A" refers to any that is applicable to all.
+It refers to animi that is applicable to all.
 
 The letter "B" refers to be that is applicable to all.
 It refers to been that is applicable to all.
