@@ -1,8 +1,20 @@
 # Lang
 
-Lang is most general and most level lang.
-
 Lang is park lang.
+
+Lang has park worth.
+
+Lang has park value.
+
+Lang has park benefit.
+
+Lang has park marry.
+
+Lang has park land.
+
+Lang has park arch.
+
+Lang has park arch worth.
 
 Lang is applicable to anything.
 
