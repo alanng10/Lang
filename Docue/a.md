@@ -16,6 +16,22 @@ Lang has park arch.
 
 Lang has park arch worth.
 
+Lang has park kind.
+
+Lang has park kind worth.
+
+Lang has park kind value.
+
+Lang has park kind benefit.
+
+Lang has park kind marry.
+
+Lang has park kind land.
+
+Lang has park kind arch.
+
+Lang has park kind arch worth.
+
 Lang is applicable to anything.
 
 Lang is applicable to any info.
