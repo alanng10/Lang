@@ -1,6 +1,6 @@
 # Lang
 
-Lang is park lang.
+Lang is park lang. 
 
 Lang has park worth.
 
