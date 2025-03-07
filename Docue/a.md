@@ -79,7 +79,7 @@ The letter "E" refers to effect that is applicable to all.
 It refers to engin that is applicable to all.
 
 The letter "F" refers to relate that is applicable to all.
-It refers to friend that is applicable to all.
+It refers to fren that is applicable to all.
 
 The letter "G" refers to shared that is applicable to all.
 It refers to glob that is applicable to all.
