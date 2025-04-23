@@ -48,6 +48,8 @@ Lang has park kind arch marry.
 
 Lang has park kind arch land.
 
+Lang has major.
+
 Lang is applicable to anything.
 
 Lang is applicable to any info.
