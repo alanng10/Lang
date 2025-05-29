@@ -94,7 +94,7 @@ The letter "H" refers to home that is applicable to all.
 It refers to horn that is applicable to all.
 
 The letter "I" refers to interpreted that is applicable to all.
-It refers to inter that is applicable to all.
+It refers to inti that is applicable to all.
 
 The letter "J" refers to form that is applicable to all.
 It refers to juice that is applicable to all.
