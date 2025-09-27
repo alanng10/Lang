@@ -98,8 +98,7 @@ It refer to kinder that is applicable to all.
 
 "L" refer to Love.
 
-The letter "M" refer to process that is applicable to all.
-It refer to maide that is applicable to all.
+"M" refer to Marry.
 
 The letter "N" refer to unit that is applicable to all.
 It refer to nect that is applicable to all.
