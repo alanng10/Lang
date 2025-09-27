@@ -79,8 +79,7 @@ It refer to been that is applicable to all.
 The letter "D" refer to direct that is applicable to all.
 It refer to diret that is applicable to all.
 
-The letter "E" refer to effect that is applicable to all.
-It refer to engin that is applicable to all.
+"E" refer to Effect.
 
 The letter "F" refer to relate that is applicable to all.
 It refer to fren that is applicable to all.
