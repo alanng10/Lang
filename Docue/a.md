@@ -118,8 +118,7 @@ It refer to refed that is applicable to all.
 
 "S" refer to Seer.
 
-The letter "T" refer to entity that is applicable to all.
-It refer to thin that is applicable to all.
+"T" refer to Time.
 
 The letter "U" refer to part that is applicable to all.
 It refer to unon that is applicable to all.
