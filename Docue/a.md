@@ -81,8 +81,7 @@ It refer to diret that is applicable to all.
 
 "E" refer to Effect.
 
-The letter "F" refer to relate that is applicable to all.
-It refer to fren that is applicable to all.
+"F" refer to Feel.
 
 The letter "G" refer to shared that is applicable to all.
 It refer to glob that is applicable to all.
