@@ -89,8 +89,7 @@ It refer to glob that is applicable to all.
 The letter "H" refer to home that is applicable to all.
 It refer to horn that is applicable to all.
 
-The letter "I" refer to interpreted that is applicable to all.
-It refer to inti that is applicable to all.
+"I" refer to Info.
 
 The letter "J" refer to form that is applicable to all.
 It refer to juice that is applicable to all.
