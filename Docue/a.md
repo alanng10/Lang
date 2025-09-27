@@ -111,8 +111,7 @@ It refer to nect that is applicable to all.
 The letter "O" refer to resulted that is applicable to all.
 It refer to operate that is applicable to all.
 
-The letter "P" refer to state that is applicable to all.
-It refer to park that is applicable to all.
+"P" refer to Park.
 
 The letter "Q" refer to quest that is applicable to all.
 It refer to queue that is applicable to all.
