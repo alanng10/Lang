@@ -69,82 +69,82 @@ Lang uses the word "he" to refer to one third party person.
 
 In Lang, the letters refer to different entities.
 
-The letter "A" refers to any that is applicable to all.
-It refers to animi that is applicable to all.
+The letter "A" refer to any that is applicable to all.
+It refer to animi that is applicable to all.
 
-The letter "B" refers to be that is applicable to all.
-It refers to been that is applicable to all.
+The letter "B" refer to be that is applicable to all.
+It refer to been that is applicable to all.
 
-The letter "C" refers to class that is applicable to all.
-It refers to clan that is applicable to all.
+The letter "C" refer to class that is applicable to all.
+It refer to clan that is applicable to all.
 
-The letter "D" refers to direct that is applicable to all.
-It refers to diret that is applicable to all.
+The letter "D" refer to direct that is applicable to all.
+It refer to diret that is applicable to all.
 
-The letter "E" refers to effect that is applicable to all.
-It refers to engin that is applicable to all.
+The letter "E" refer to effect that is applicable to all.
+It refer to engin that is applicable to all.
 
-The letter "F" refers to relate that is applicable to all.
-It refers to fren that is applicable to all.
+The letter "F" refer to relate that is applicable to all.
+It refer to fren that is applicable to all.
 
-The letter "G" refers to shared that is applicable to all.
-It refers to glob that is applicable to all.
+The letter "G" refer to shared that is applicable to all.
+It refer to glob that is applicable to all.
 
-The letter "H" refers to home that is applicable to all.
-It refers to horn that is applicable to all.
+The letter "H" refer to home that is applicable to all.
+It refer to horn that is applicable to all.
 
-The letter "I" refers to interpreted that is applicable to all.
-It refers to inti that is applicable to all.
+The letter "I" refer to interpreted that is applicable to all.
+It refer to inti that is applicable to all.
 
-The letter "J" refers to form that is applicable to all.
-It refers to juice that is applicable to all.
+The letter "J" refer to form that is applicable to all.
+It refer to juice that is applicable to all.
 
-The letter "K" refers to kind that is applicable to all.
-It refers to kinder that is applicable to all.
+The letter "K" refer to kind that is applicable to all.
+It refer to kinder that is applicable to all.
 
-The letter "L" refers to applicable that is applicable to all.
-It refers to list that is applicable to all.
+The letter "L" refer to applicable that is applicable to all.
+It refer to list that is applicable to all.
 
-The letter "M" refers to process that is applicable to all.
-It refers to maide that is applicable to all.
+The letter "M" refer to process that is applicable to all.
+It refer to maide that is applicable to all.
 
-The letter "N" refers to unit that is applicable to all.
-It refers to nect that is applicable to all.
+The letter "N" refer to unit that is applicable to all.
+It refer to nect that is applicable to all.
 
-The letter "O" refers to resulted that is applicable to all.
-It refers to operate that is applicable to all.
+The letter "O" refer to resulted that is applicable to all.
+It refer to operate that is applicable to all.
 
-The letter "P" refers to state that is applicable to all.
-It refers to park that is applicable to all.
+The letter "P" refer to state that is applicable to all.
+It refer to park that is applicable to all.
 
-The letter "Q" refers to quest that is applicable to all.
-It refers to queue that is applicable to all.
+The letter "Q" refer to quest that is applicable to all.
+It refer to queue that is applicable to all.
 
-The letter "R" refers to refer that is applicable to all.
-It refers to refed that is applicable to all.
+The letter "R" refer to refer that is applicable to all.
+It refer to refed that is applicable to all.
 
-The letter "S" refers to structure that is applicable to all.
-It refers to strut that is applicable to all.
+The letter "S" refer to structure that is applicable to all.
+It refer to strut that is applicable to all.
 
-The letter "T" refers to entity that is applicable to all.
-It refers to thin that is applicable to all.
+The letter "T" refer to entity that is applicable to all.
+It refer to thin that is applicable to all.
 
-The letter "U" refers to part that is applicable to all.
-It refers to unon that is applicable to all.
+The letter "U" refer to part that is applicable to all.
+It refer to unon that is applicable to all.
 
-The letter "V" refers to present that is applicable to all.
-It refers to vaim that is applicable to all.
+The letter "V" refer to present that is applicable to all.
+It refer to vaim that is applicable to all.
 
-The letter "W" refers to whether that is applicable to all.
-It refers to when that is applicable to all.
+The letter "W" refer to whether that is applicable to all.
+It refer to when that is applicable to all.
 
-The letter "X" refers to cross that is applicable to all.
-It refers to xopo that is applicable to all.
+The letter "X" refer to cross that is applicable to all.
+It refer to xopo that is applicable to all.
 
-The letter "Y" refers to object that is applicable to all.
-It refers to yoto that is applicable to all.
+The letter "Y" refer to object that is applicable to all.
+It refer to yoto that is applicable to all.
 
-The letter "Z" refers to zero that is applicable to all.
-It refers to zoro that is applicable to all.
+The letter "Z" refer to zero that is applicable to all.
+It refer to zoro that is applicable to all.
 
 The lower case letters refer to instances of the correponding upper case letters entities.
