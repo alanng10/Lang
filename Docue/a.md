@@ -130,8 +130,7 @@ It refer to vaim that is applicable to all.
 The letter "W" refer to whether that is applicable to all.
 It refer to when that is applicable to all.
 
-The letter "X" refer to cross that is applicable to all.
-It refer to xopo that is applicable to all.
+"X" refer to Xross.
 
 The letter "Y" refer to object that is applicable to all.
 It refer to yoto that is applicable to all.
