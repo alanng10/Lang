@@ -98,8 +98,7 @@ It refer to juice that is applicable to all.
 The letter "K" refer to kind that is applicable to all.
 It refer to kinder that is applicable to all.
 
-The letter "L" refer to applicable that is applicable to all.
-It refer to list that is applicable to all.
+"L" refer to Love.
 
 The letter "M" refer to process that is applicable to all.
 It refer to maide that is applicable to all.
