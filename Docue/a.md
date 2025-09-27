@@ -74,8 +74,7 @@ In Lang, the letters refer to different entities.
 The letter "B" refer to be that is applicable to all.
 It refer to been that is applicable to all.
 
-The letter "C" refer to class that is applicable to all.
-It refer to clan that is applicable to all.
+"C" refer to Class.
 
 The letter "D" refer to direct that is applicable to all.
 It refer to diret that is applicable to all.
