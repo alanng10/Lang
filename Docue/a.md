@@ -103,8 +103,7 @@ It refer to kinder that is applicable to all.
 The letter "N" refer to unit that is applicable to all.
 It refer to nect that is applicable to all.
 
-The letter "O" refer to resulted that is applicable to all.
-It refer to operate that is applicable to all.
+"O" refer to Optro.
 
 "P" refer to Park.
 
