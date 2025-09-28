@@ -135,4 +135,4 @@ The letter "Z" refer to zero that is applicable to all.
 It refer to zoro that is applicable to all.
 
 The lower case letters refer to instances of the correponding upper case letters entities.
-The instances words are all lower case letters.
+The instances words are all alpha site of the upper case letter entities words.
