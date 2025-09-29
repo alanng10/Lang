@@ -69,7 +69,7 @@ Lang uses the word "he" to refer to one third party person.
 
 In Lang, the letters refer to different entities.
 
-"A" refer to Any.
+"A" refer to Aero.
 
 The letter "B" refer to be that is applicable to all.
 It refer to been that is applicable to all.
