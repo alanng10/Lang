@@ -110,8 +110,7 @@ It refer to nect that is applicable to all.
 The letter "Q" refer to quest that is applicable to all.
 It refer to queue that is applicable to all.
 
-The letter "R" refer to refer that is applicable to all.
-It refer to refed that is applicable to all.
+"R" refer to Radius.
 
 "S" refer to Seer.
 
