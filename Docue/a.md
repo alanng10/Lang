@@ -98,12 +98,12 @@ It refer to kinder that is applicable to all.
 
 "L" refer to Love.
 
-"M" refer to Marry.
+"M" refer to Mary.
 
 The letter "N" refer to unit that is applicable to all.
 It refer to nect that is applicable to all.
 
-"O" refer to Optro.
+"O" refer to Opto.
 
 "P" refer to Park.
 
