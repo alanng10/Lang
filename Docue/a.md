@@ -50,7 +50,7 @@ Lang has park kind arch land.
 
 Lang has park mark.
 
-Lang has park cross.
+Lang has park xross.
 
 Lang has major.
 
