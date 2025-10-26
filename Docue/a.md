@@ -71,8 +71,7 @@ In Lang, the letters refer to different entities.
 
 "A" refer to Aero.
 
-The letter "B" refer to be that is applicable to all.
-It refer to been that is applicable to all.
+"B" refer to Bingo.
 
 "C" refer to Class.
 
