@@ -73,7 +73,7 @@ In Lang, the letters refer to different entities.
 
 "B" refer to Bingo.
 
-"C" refer to Class.
+"C" refer to Care.
 
 The letter "D" refer to direct that is applicable to all.
 It refer to diret that is applicable to all.
