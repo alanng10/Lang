@@ -75,8 +75,7 @@ In Lang, the letters refer to different entities.
 
 "C" refer to Care.
 
-The letter "D" refer to direct that is applicable to all.
-It refer to diret that is applicable to all.
+"D" refer to Dine.
 
 "E" refer to Effect.
 
